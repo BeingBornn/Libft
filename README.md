@@ -1,6 +1,13 @@
-Libft is a 42 Project in which i had to make a library of useful functions.
-some of these functions are from libc and other ones are made by a given explaination which
-i wrote at the top of my code
+# Libft - Your very first own library
 
+Libft is a project that requires us to re-create standard C library functions according to the WeThinkCode_ standards, also known as "The Norm". This library helps to understand the concepts of static libraries in C programming and also serves as a handy utility package for future C projects at WeThinkCode_.
 
-feel free to ask any questions <3
+![Libft Badge](299972587-9541e8ec-4910-4208-99da-ec77d6502c13.png)
+
+## Installation
+
+Clone the repository to your local machine:
+
+```sh
+git clone https://github.com/YOUR_GITHUB_USERNAME/libft.git
+
