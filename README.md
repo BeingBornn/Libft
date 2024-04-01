@@ -4,3 +4,6 @@ Libft is a project that requires us to re-create standard C library functions ac
 
 
 ![Libft Badge](libft/assets/299972587-9541e8ec-4910-4208-99da-ec77d6502c13.png)
+
+
+feel free to ask any questions o__+
