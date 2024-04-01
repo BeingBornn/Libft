@@ -15,4 +15,5 @@ Libft is 42 project that requires us to re-create standard C library functions a
 
 made with 💙 and 🩸.
 
+I didn't do the bouns part tho.
 feel free to ask any questions <<<<🌹>>>>
