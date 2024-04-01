@@ -4,7 +4,7 @@ Libft is 42 project that requires us to re-create standard C library functions a
 
 ## Features
 
-- Memory manipulation
+- Memory manipulation 
 - String handling
 - Character checks and conversions
 - Linked list operations
@@ -14,4 +14,5 @@ Libft is 42 project that requires us to re-create standard C library functions a
 
 
 made with 💙 and 🩸.
+
 feel free to ask any questions <<<<🌹>>>>
